@@ -1,6 +1,12 @@
-# Trouble Shooting 🤓
+# IT Support Portfolio
 
-## Computer Intermitant Conection to Internet Via Ethernet Cable 🤷‍♂️
+Documented troubleshooting tickets showing my approach to diagnosing and resolving common IT support issues.
+
+## Ticket Index
+
+| ID | Issue | Category | Resolution | Link |
+|---|---|---|---|---|
+| INC-0001 | Intermittent fake storage pop-ups blocking screen | Mobile / Security | Removed 13 suspicious apps via Safe Mode | [View ticket](tickets/INC-0001-mobile-malware-storage-popups.md) |
 
 
 
